@@ -1,0 +1,2 @@
+# Only needed for live data (--real). Mock mode runs with the standard library alone.
+requests>=2.31.0
