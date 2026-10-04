@@ -1,0 +1,104 @@
+Origin,Destination,Distance
+Agartala,Aizawl,470
+Agartala,Imphal,455
+Agartala,Shillong,460
+Agra,Bhopal,568
+Agra,Dehradun,387
+Agra,Delhi,200
+Agra,Jabalpur,627
+Agra,Jaipur,230
+Agra,Jodhpur,583
+Agra,Lucknow,369
+Agra,Nainital,342
+Agra,Varanasi,554
+Ahmedabad,Bhopal,563
+Ahmedabad,Chhatrapati Sambhajinagar,595
+Ahmedabad,Gandhidham,369
+Ahmedabad,Mount Abu,210
+Ahmedabad,Mumbai,555
+Ahmedabad,Udaipur,251
+Aizawl,Imphal,337
+Aizawl,Shillong,396
+Amritsar,Chandigarh,233
+Amritsar,Dehradun,387
+Amritsar,Jammu,216
+Bengaluru,Chennai,334
+Bengaluru,Hyderabad,566
+Bengaluru,Mysuru,135
+Bengaluru,Panaji,581
+Bengaluru,Puducherry,315
+Bengaluru,Tirupati,254
+Bhopal,Chhatrapati Sambhajinagar,587
+Bhopal,Jabalpur,292
+Bhopal,Jaipur,580
+Bhopal,Mumbai,780
+Bhopal,Nagpur,360
+Bhubaneswar,Kolkata,470
+Bhubaneswar,Nagpur,849
+Bhubaneswar,Patna,868
+Bhubaneswar,Visakhapatnam,427
+Bikaner,Delhi,440
+Bikaner,Jaipur,354
+Bikaner,Jodhpur,248
+Chandigarh,Dehradun,195
+Chandigarh,Delhi,254
+Chandigarh,Jammu,393
+Chandigarh,Shimla,93
+Chennai,Puducherry,162
+Chennai,Tirupati,151
+Chennai,Vijayawada,433
+Chhatrapati Sambhajinagar,Hyderabad,530
+Chhatrapati Sambhajinagar,Mumbai,334
+Chhatrapati Sambhajinagar,Nagpur,605
+Chhatrapati Sambhajinagar,Panaji,748
+Darjeeling,Gangtok,93
+Darjeeling,Guwahati,505
+Darjeeling,Kolkata,692
+Darjeeling,Patna,542
+Dehradun,Delhi,233
+Dehradun,Nainital,351
+Dehradun,Shimla,199
+Delhi,Jaipur,261
+Delhi,Lucknow,499
+Delhi,Nainital,306
+Dispur,Guwahati,5
+Dispur,Kohima,341
+Dispur,Shillong,95
+Gandhidham,Mount Abu,378
+Guwahati,Itanagar,378
+Hyderabad,Mumbai,735
+Hyderabad,Nagpur,488
+Hyderabad,Vijayawada,271
+Imphal,Kohima,123
+Imphal,Shillong,381
+Jabalpur,Lucknow,605
+Jabalpur,Nagpur,267
+Jabalpur,Varanasi,419
+Jaipur,Mount Abu,511
+Jaipur,Udaipur,374
+Jammu,Shimla,385
+Jammu,Srinagar,305
+Jodhpur,Mount Abu,275
+Jodhpur,Udaipur,268
+Kanniyakumari,Puducherry,578
+Kanniyakumari,Rameshwaram,402
+Kanniyakumari,Thiruvananthapuram,87
+Kochi,Rameshwaram,493
+Kochi,Thiruvananthapuram,218
+Kochi,Udhagamandalam,262
+Kolkata,Patna,614
+Kolkata,Varanasi,690
+Lucknow,Nainital,381
+Lucknow,Varanasi,284
+Mount Abu,Udaipur,190
+Mumbai,Panaji,588
+Mysuru,Panaji,619
+Mysuru,Udhagamandalam,131
+Nainital,Shimla,470
+Patna,Varanasi,246
+Puducherry,Rameshwaram,441
+Puducherry,Udhagamandalam,392
+Puducherry,Visakhapatnam,757
+Rameshwaram,Udhagamandalam,493
+Tirupati,Vijayawada,357
+Vijayawada,Visakhapatnam,362
